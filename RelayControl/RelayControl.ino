@@ -12,6 +12,8 @@
  */
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
+
+/*Relay control pins are connected to D3 and D5 */
 #define RELAY_PIN1  D3
 #define RELAY_PIN2  D5
 
